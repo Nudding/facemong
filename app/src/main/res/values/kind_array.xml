@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kind">
+        <item>치와와</item>
+        <item>말티즈</item>
+        <item>미니어처 핀셔</item>
+        <item>파피용</item>
+        <item>포메라니안</item>
+        <item>푸들</item>
+        <item>시추</item>
+        <item>요크셔테리어</item>
+        <item>비글</item>
+        <item>닥스훈트</item>
+        <item>골든 리트리버</item>
+        <item>시베리안 허스키</item>
+        <item>보더콜리</item>
+        <item>웰시코기</item>
+        <item>불독</item>
+        <item>시바견</item>
+    </string-array>
+</resources>

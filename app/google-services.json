@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "454658041707",
+    "project_id": "facemong-c4a29",
+    "storage_bucket": "facemong-c4a29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454658041707:android:785b380bb705c77b0b4e2e",
+        "android_client_info": {
+          "package_name": "com.example.dog_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454658041707-lje039jvb3n6i8l4lkjbkakn2g579b2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dog_info",
+            "certificate_hash": "8ffb05365bfa5e9bff765154fa8a87d750f5b501"
+          }
+        },
+        {
+          "client_id": "454658041707-pkql50jnva9vpo9ivkn3c6jd02ie0js2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZVccdiUwflZaot6Au9LxAS-qigQ8Ed4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454658041707-pkql50jnva9vpo9ivkn3c6jd02ie0js2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
